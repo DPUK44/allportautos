@@ -113,3 +113,8 @@ require get_template_directory() . '/inc/customizer.php';
  * Bootstrap Walker.
  */
 require get_template_directory() . '/inc/bootstrap-walker.php';
+
+/**
+ * Metaboxes.
+ */
+require get_template_directory() . '/inc/metaboxes.php';
